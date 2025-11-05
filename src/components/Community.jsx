@@ -1,5 +1,5 @@
 import React from 'react'
-import group2 from "../assets/group2.png"
+import group2 from "../assets/Group2.png"
 
 const Community = () => {
   return (
